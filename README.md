@@ -4,7 +4,9 @@
 
 <br/>
 
-## Hi, I'm Fazliddinov Iskandar, a Flutter developer. My passion for software is dreaming up ideas and realizing them with elegant interfaces. I pay close  attention to the experience, architecture, and code quality of the things I build. <br/> <br/> I am also an open source enthusiast and servant. I have learned a lot from the open source community, and I enjoy collaborating and sharing knowledge  through open source. That's why I give permission to use all my projects.
+<div>
+  <img src="https://github.com/omadli/omadli/raw/master/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</div>
 
 <br/>
 
@@ -48,14 +50,7 @@
 
 
 <br>
-<br>
- 
 
-<div>
-  <img src="https://github.com/omadli/omadli/raw/master/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</div>
-
-<br>
 <br>
 
   
