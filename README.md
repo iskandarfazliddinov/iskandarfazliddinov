@@ -4,7 +4,7 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=iskandarfazliddinov&theme=react)](https://git.io/streak-stats)
 <br/>
 ### My stats
-[![javokhirbekkhaydarov's github stats](https://github-readme-stats.vercel.app/api?username=javokhirbekkhaydarov&show_icons=true&theme=react)](https://github.com/javokhirbekkhaydarov/github-readme-stats) <br/><br/>
+[![Iskandar Fazliddinov github stats](https://github-readme-stats.vercel.app/api?username=iskandarfazliddinov&show_icons=true&theme=react)](https://github.com/iskandarfazliddinov/github-readme-stats) <br/><br/>
 
 ### Most used languages
 ![ ](https://github-readme-stats.vercel.app/api/top-langs/?username=iskandarfazliddinov&show_icons=true&theme=react)
