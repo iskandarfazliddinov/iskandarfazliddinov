@@ -53,9 +53,4 @@
 
 <br>
 
-  
-## GitHub Profile Trophy 🏆
-
-<h1 align="center"> <img  align="center" src="https://github-profile-trophy.vercel.app/?username=iskandarfazliddinov&row=1&margin-w=25)](https://github.com/ryo-ma/github-profile-trophy" alt="iskandarfazliddinov" />
- </h1>
 
