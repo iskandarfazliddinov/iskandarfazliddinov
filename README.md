@@ -51,7 +51,9 @@
 <br>
  
 
-<img src="https://github-readme-stats.vercel.app/api?username=iskandarfazliddinov&show_icons=true&theme=radical" alt="iskandarfazliddinov" />
+<div>
+  <img src="https://github.com/omadli/omadli/raw/master/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</div>
 
 <br>
 <br>
