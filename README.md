@@ -2,15 +2,7 @@
 
 # Hi there! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-<br/>
 
-<div>
-  <img src="https://github.com/omadli/omadli/raw/master/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</div>
-
-<br/>
-
-<br/>
 
 ## ⚡ Technologies
 
